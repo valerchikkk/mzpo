@@ -1,0 +1,9 @@
+﻿  laba5.cpp
+  You may be using a weak algorithm that has been retained for backwards compatibility. Please '#define CRYPTOPP_ENABLE_NAMESPACE_WEAK 1' before including this .h file and prepend the class name with 'Weak::' to remove this warning.
+D:\Visual Studio\repos\laba5\laba5\laba5.cpp(45,24): warning C4242: =: преобразование "int" в "char", возможна потеря данных
+  Создание кода
+  1 of 1086 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  laba5.vcxproj -> D:\Visual Studio\repos\laba5\x64\Release\laba5.exe
