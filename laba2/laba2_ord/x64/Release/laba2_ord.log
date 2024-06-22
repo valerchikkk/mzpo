@@ -1,0 +1,8 @@
+﻿  laba2_ord.cpp
+D:\Visual Studio\repos\laba2\laba2_ord\laba2_ord.cpp(40,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2_ord\laba2_ord.cpp(72,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  laba2_ord.vcxproj -> D:\Visual Studio\repos\laba2\x64\Release\laba2_ord.exe
