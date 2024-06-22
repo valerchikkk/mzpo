@@ -1,0 +1,24 @@
+﻿  laba2.cpp
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(9,22): error C2065: NCRYPT_ALG_MD5: необъявленный идентификатор
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(9,5): error C3861: NCryptCreateHash: идентификатор не найден
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(12,18): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(13,5): error C3861: NCryptHashData: идентификатор не найден
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(16,18): error C2065: MD5_DIGEST_LENGTH: необъявленный идентификатор
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(17,18): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(18,5): error C3861: NCryptGetHashValue: идентификатор не найден
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(21,23): error C2079: "ss" использует не имеющую определения структуру class "std::basic_stringstream<char,std::char_traits<char>,std::allocator<char>>"
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(22,25): error C2065: MD5_DIGEST_LENGTH: необъявленный идентификатор
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(23,12): error C2297: "<<": недопустимо, поскольку тип правого операнда — "std::ios_base &(__cdecl *)(std::ios_base &)"
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(23,32): error C2039: "setfill": не является членом "std".
+  D:\Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string(23,1):
+   см. объявление "std"
+  
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(23,32): error C3861: setfill: идентификатор не найден
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(23,53): error C2039: "setw": не является членом "std".
+  D:\Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\string(23,1):
+   см. объявление "std"
+  
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(23,53): error C3861: setw: идентификатор не найден
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(23,61): warning C4552: "<<": результат выражения не используется
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(27,5): error C3861: NCryptCloseHash: идентификатор не найден
+D:\Visual Studio\repos\laba2\laba2\laba2.cpp(17,20): error C1903: не удается восстановить после предыдущих ошибок; остановка компиляции

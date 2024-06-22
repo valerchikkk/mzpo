@@ -1,0 +1,13 @@
+﻿  laba2_algorithm.cpp
+D:\Visual Studio\repos\laba2\laba2_algorithm\laba2_algorithm.cpp(12,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2_algorithm\laba2_algorithm.cpp(18,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2_algorithm\laba2_algorithm.cpp(27,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2_algorithm\laba2_algorithm.cpp(67,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2_algorithm\laba2_algorithm.cpp(74,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba2\laba2_algorithm\laba2_algorithm.cpp(84,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 220 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  laba2_algorithm.vcxproj -> D:\Visual Studio\repos\laba2\x64\Release\laba2_algorithm.exe
