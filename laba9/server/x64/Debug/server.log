@@ -1,0 +1,2 @@
+﻿  server.cpp
+D:\Visual Studio\repos\laba9\server\server.cpp(5,10): error C1083: Не удается открыть файл включение: openssl/evp.h: No such file or directory,

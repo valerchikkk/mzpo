@@ -1,0 +1,9 @@
+﻿  client.cpp
+D:\Visual Studio\repos\laba8_mzpo\laba8_mzpo\client.cpp(86,89): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba8_mzpo\laba8_mzpo\client.cpp(104,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  57 of 157 functions (36.3%) were compiled, the rest were copied from previous compilation.
+    38 functions were new in current compilation
+    26 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  laba8_mzpo.vcxproj -> D:\Visual Studio\repos\laba8_mzpo\x64\Release\client.exe

@@ -1,0 +1,16 @@
+﻿  server.cpp
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(105,12): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(153,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(205,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(211,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(213,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(241,62): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(269,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(286,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\laba10\server.cpp(293,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  29 of 135 functions (21.5%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    12 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  laba10.vcxproj -> D:\Visual Studio\repos\laba10_peredelka\x64\Release\server.exe

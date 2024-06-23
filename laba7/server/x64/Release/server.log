@@ -1,0 +1,12 @@
+﻿  server.cpp
+D:\Visual Studio\repos\laba7\server\server.cpp(89,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba7\server\server.cpp(95,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba7\server\server.cpp(98,36): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba7\server\server.cpp(122,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba7\server\server.cpp(129,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 111 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  server.vcxproj -> D:\Visual Studio\repos\laba7\x64\Release\server.exe

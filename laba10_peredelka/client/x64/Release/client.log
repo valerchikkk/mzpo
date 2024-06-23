@@ -1,0 +1,11 @@
+﻿  client.cpp
+D:\Visual Studio\repos\laba10_peredelka\client\client.cpp(81,12): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\client\client.cpp(117,105): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\client\client.cpp(182,84): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Visual Studio\repos\laba10_peredelka\client\client.cpp(191,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  61 of 175 functions (34.9%) were compiled, the rest were copied from previous compilation.
+    21 functions were new in current compilation
+    23 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  client.vcxproj -> D:\Visual Studio\repos\laba10_peredelka\x64\Release\client.exe
