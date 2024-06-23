@@ -1,9 +1,0 @@
-﻿  Source.cpp
-D:\Visual Studio\repos\laba9\Project1\Source.cpp(78,12): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Visual Studio\repos\laba9\Project1\Source.cpp(106,105): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-D:\Visual Studio\repos\laba9\Project1\Source.cpp(140,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  Создание кода
-  Previous IPDB not found, fall back to full compilation.
-  All 159 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  Project1.vcxproj -> D:\Visual Studio\repos\laba9\x64\Release\Project1.exe
